@@ -1,6 +1,6 @@
 ## Zeynep
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/ee/c0/97/eec097ad46de5011264b4a71d7c292f5.gif" width="400" height="220" />
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=790b7611f4ee86e9a912b7c4cb122a7eb7b1c58d2add8961&rid=giphy.gif&ct=g" width="400" height="220" />
 
 **About Me**
 ```python
