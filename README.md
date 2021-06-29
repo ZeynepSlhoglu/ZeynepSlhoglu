@@ -6,6 +6,7 @@
 ```python
 Zeynep = {
   "title": {"Software Engineering":"Student"},
+  "University": {Karadeniz Teknik Üniversitesi}
 }
 ```
 **Languages and Tools:**
