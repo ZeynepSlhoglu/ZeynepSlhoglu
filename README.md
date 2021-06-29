@@ -10,14 +10,7 @@ Zeynep = {
 }
 ```
 
-
-
-
-
-
-
-
-
+<div width:"50" height="50"></div>
 
 **Languages and Tools:**
 
