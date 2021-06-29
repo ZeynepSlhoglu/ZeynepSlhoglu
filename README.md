@@ -10,7 +10,7 @@ Zeynep = {
 }
 ```
 
-<div style="width:350px; height=350px;"></div>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 **Languages and Tools:**
 
