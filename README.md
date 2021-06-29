@@ -6,7 +6,7 @@
 ```python
 Zeynep = {
   "title": {"Software Engineering":"Student"},
-  "University": {Karadeniz Teknik Üniversitesi}
+  "University": {"Karadeniz Teknik Üniversitesi"}
 }
 ```
 
