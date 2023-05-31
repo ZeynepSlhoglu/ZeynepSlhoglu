@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=790b7611f4ee86e9a912b7c4cb122a7eb7b1c58d2add8961&rid=giphy.gif&ct=g" width="180" height="180"/>
 
 ## 🚀 Hakkımda
-Ben bir yazılım geliştiriciyim ve CPM Teknoloji A.Ş. şirketinde Junior Developer olarak çalışıyorum. Kendimi sürekli geliştiren, yeniliklere açık ve takım çalışmasına önem veren biriyim. Aşağıda hakim olduğum teknolojilere ve yeteneklere göz atabilirsiniz.
+Ben bir yazılım geliştiriciyim ve CPM Teknoloji A.Ş. şirketinde Junior Developer olarak çalışıyorum. Aşağıda hakim olduğum teknolojilere ve yeteneklere göz atabilirsiniz.
 
 ## 👨‍💻 Teknolojiler ve Yetenekler
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> HTML
