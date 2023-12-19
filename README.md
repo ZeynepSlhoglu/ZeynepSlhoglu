@@ -15,11 +15,11 @@ I'm a software developer working as a Junior Developer at CPM Technology Inc. Be
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnetcore/dotnetcore.png"></code> .NET Core
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/wpf/wpf.png"></code> WPF
 
-## 📊 My GitHub Stats
+<!--## 📊 My GitHub Stats
 ![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeynepSlhoglu&show_icons=true&theme=radical)
 
 ## 🌟 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeynepSlhoglu&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeynepSlhoglu&layout=compact)-->
   
 ## 📫 Contact Me
 If you'd like to get in touch with me, feel free to use any of the following options:
