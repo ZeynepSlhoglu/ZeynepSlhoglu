@@ -1,27 +1,63 @@
-<h1 align="center">Hi, I'm Zeynep 👋</h1>
-
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=790b7611f4ee86e9a912b7c4cb122a7eb7b1c58d2add8961&rid=giphy.gif&ct=g" width="150" height="150"/>
+<h2 align="center">Hi, I'm Zeynep 👋</h2>
 
 ## 🚀 About Me
 I'm a software developer working as a Junior Developer at Mobiltel Communication Inc. Below you can explore the technologies I'm proficient in and my skills.
 
-## 👨‍💻 Technologies & Skills
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code> HTML
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code> CSS
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code> JavaScript
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mssql/mssql.png"></code> MSSQL
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code> MySQL
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code> C#
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnetcore/dotnetcore.png"></code> .NET Core
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/wpf/wpf.png"></code> WPF
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeynepSlhoglu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeynepSlhoglu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
- ## 📊 My GitHub Stats
-![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeynepSlhoglu&show_icons=true&theme=radical)
+###
 
-## 🌟 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeynepSlhoglu&layout=compact)
-  
-## 📫 Contact Me
-If you'd like to get in touch with me, feel free to use any of the following options:
-- LinkedIn: https://www.linkedin.com/in/salihoglu-zeynep
-- Email: salihogluzynp@gmail.com
+<img align="right" height="170" src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=790b7611f4ee86e9a912b7c4cb122a7eb7b1c58d2add8961&rid=giphy.gif&ct=g"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
+</div>
+
+### 📫 Contact Me
+
+<div align="left">
+  <a href="mailto:salihogluzynp@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/salihoglu-zeynep">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ZeynepSlhoglu/ZeynepSlhoglu/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeynepSlhoglu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeynepSlhoglu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
