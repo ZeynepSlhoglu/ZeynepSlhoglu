@@ -40,13 +40,6 @@ I'm a software developer working as a Junior Developer at Mobiltel Communication
   </a>
 </div>
 
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ZeynepSlhoglu/ZeynepSlhoglu/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
