@@ -2,13 +2,7 @@
 
 ## 🚀 About Me
 I'm a software developer working as a Junior Developer at Mobiltel Communication Inc. Below you can explore the technologies I'm proficient in and my skills.
-
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeynepSlhoglu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeynepSlhoglu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
+ 
 ###
 
 <img align="right" height="170" src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=790b7611f4ee86e9a912b7c4cb122a7eb7b1c58d2add8961&rid=giphy.gif&ct=g"  />
