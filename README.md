@@ -45,7 +45,7 @@ I'm a software developer working as a Junior Developer at Mobiltel Communication
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ZeynepSlhoglu/ZeynepSlhoglu/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ZeynepSlhoglu/ZeynepSlhoglu/snake.svg" alt="Snake animation" />
 
 ###
 
