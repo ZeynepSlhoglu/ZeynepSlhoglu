@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Zeynep 👋</h2>
 
 ## 🚀 About Me
-I'm a software developer working as a Junior Developer at Mobiltel Communication Inc. Below you can explore the technologies I'm proficient in and my skills.
+I'm a software developer. Below you can explore the technologies I'm proficient in and my skills.
  
 ###
 
